@@ -11,4 +11,11 @@ public final class App {
     public String hello(String t){
         return t;
     }
+
+    public String EvenOrOdd(int temp){
+        if(temp%2==0){
+            return "even";
+        }
+        return "odd";
+    }
 }
