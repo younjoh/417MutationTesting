@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"maven.view": "flat",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
